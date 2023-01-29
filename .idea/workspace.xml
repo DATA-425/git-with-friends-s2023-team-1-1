@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e8df103-ca81-4ccd-a1d2-1ddfd69b6e5b" name="Changes" comment="" />
+    <list default="true" id="7e8df103-ca81-4ccd-a1d2-1ddfd69b6e5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/newfile4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newfile3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/newfile3.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/matth/OneDrive/Documents/GitHub/git-with-friends-s2023-team-1-1/heresafile.txt",
     "two.files.diff.last.used.file": "C:/Users/matth/OneDrive/Documents/GitHub/git-with-friends-s2023-team-1-1/heresafile.txt"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
