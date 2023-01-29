@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e8df103-ca81-4ccd-a1d2-1ddfd69b6e5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/newfile4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newfile3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/newfile3.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7e8df103-ca81-4ccd-a1d2-1ddfd69b6e5b" name="Changes" comment="TEXT" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/matth/OneDrive/Documents/GitHub/git-with-friends-s2023-team-1-1/heresafile.txt",
+    "settings.editor.selected.configurable": "vcs.Git",
     "two.files.diff.last.used.file": "C:/Users/matth/OneDrive/Documents/GitHub/git-with-friends-s2023-team-1-1/heresafile.txt"
   },
   "keyToStringList": {
@@ -43,6 +44,25 @@
       <option name="presentableId" value="Default" />
       <updated>1674693636755</updated>
     </task>
+    <task id="LOCAL-00001" summary="TEXT">
+      <created>1675020935034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675020935034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TEXT">
+      <created>1675021003278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675021003278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEXT" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEXT" />
   </component>
 </project>
